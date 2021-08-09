@@ -1,0 +1,88 @@
+{
+    "posts": [
+        {
+            "title": "Home",
+            "url": "/yukino-app/guides/index.html",
+            "toc": [
+                {
+                    "title": "How do I use this wiki?",
+                    "id": "how-do-i-use-this-wiki",
+                    "url": "/yukino-app/guides/index.html#how-do-i-use-this-wiki"
+                },
+                {
+                    "title": "Links",
+                    "id": "links",
+                    "url": "/yukino-app/guides/index.html#links"
+                }
+            ]
+        },
+        {
+            "title": "How does it work?",
+            "url": "/yukino-app/guides/posts/how-it-works.html",
+            "toc": [
+                {
+                    "title": "Overview",
+                    "id": "overview",
+                    "url": "/yukino-app/guides/posts/how-it-works.html#overview"
+                },
+                {
+                    "title": "The flow",
+                    "id": "the-flow",
+                    "url": "/yukino-app/guides/posts/how-it-works.html#the-flow"
+                },
+                {
+                    "title": "Privacy",
+                    "id": "privacy",
+                    "url": "/yukino-app/guides/posts/how-it-works.html#privacy"
+                }
+            ]
+        },
+        {
+            "title": "Installation",
+            "url": "/yukino-app/guides/posts/installation.html",
+            "toc": [
+                {
+                    "title": "Requirements",
+                    "id": "requirements",
+                    "url": "/yukino-app/guides/posts/installation.html#requirements"
+                },
+                {
+                    "title": "Downloading",
+                    "id": "downloading",
+                    "url": "/yukino-app/guides/posts/installation.html#downloading"
+                },
+                {
+                    "title": "Windows",
+                    "id": "windows",
+                    "url": "/yukino-app/guides/posts/installation.html#windows"
+                },
+                {
+                    "title": "Mac",
+                    "id": "mac",
+                    "url": "/yukino-app/guides/posts/installation.html#mac"
+                },
+                {
+                    "title": "Linux",
+                    "id": "linux",
+                    "url": "/yukino-app/guides/posts/installation.html#linux"
+                },
+                {
+                    "title": "Android",
+                    "id": "android",
+                    "url": "/yukino-app/guides/posts/installation.html#android"
+                },
+                {
+                    "title": "Blocked by Windows SmartScreen",
+                    "id": "blocked-by-windows-smartscreen",
+                    "url": "/yukino-app/guides/posts/installation.html#blocked-by-windows-smartscreen"
+                },
+                {
+                    "title": "Blocked by Android Play Protect",
+                    "id": "blocked-by-android-play-protect",
+                    "url": "/yukino-app/guides/posts/installation.html#blocked-by-android-play-protect"
+                }
+            ]
+        }
+    ],
+    "lastUpdated": 1628512295700
+}
